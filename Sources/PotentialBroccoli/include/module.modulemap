@@ -1,0 +1,4 @@
+module PotentialBroccoli {
+    header "PotentialBroccoli.h"
+    export *
+}
